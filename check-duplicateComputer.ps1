@@ -1,6 +1,6 @@
 ﻿<#
 Name: check-duplicateComputer
-Author: John Fabry - KETS Messaging and Directory Services (MADS) Team
+Author: John
 Date: 11/5/2014
 
 Description: Checks to see if there are duplicate computers. This script queries the Global Catalog partition to make a determination.
